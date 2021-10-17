@@ -1,1 +1,1 @@
-# FiveM Autoconnect Discord.JS BOT
+# * FiveM Autoconnect Discord.JS BOT
